@@ -23,7 +23,7 @@ Kindle-Markdowner is a Python script that converts your Kindle highlights from `
    Open a terminal or command prompt and navigate to the directory containing the script and `My Clippings.txt` file. Run the script using Python:
 
    ```sh
-   python kindlemarkdowner.py
+   python kindle-markdowner.py
 
 ## License
 
