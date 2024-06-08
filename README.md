@@ -1,9 +1,6 @@
-# kindle-markdowner
-A simple Python script to convert yout 'My Clippings.txt' from Kindle to Markdown format that it can be used in Obsidian or Logseq
-
 # Kindle-Markdowner
 
-Kindle-Markdowner is a Python script that converts your Kindle highlights from `My Clippings.txt` into separate Markdown files, each corresponding to a different book.
+Kindle-Markdowner is a Python script that converts your Kindle highlights from `My Clippings.txt` into separate Markdown files, each corresponding to a different book. This would be helpfull if you are using Logseq or Obsidian
 
 ## Features
 
